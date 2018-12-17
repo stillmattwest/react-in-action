@@ -1,0 +1,28 @@
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+    color:#32322C;
+}
+
+.postAuthor{
+    color:#55828B;
+}
+
+.commentAuthor{
+    color:#89A894;
+}
+
+.postBody,.commentContent,.createComment{
+    color:#32322C;
+}
+
+.commentAuthor,.commentContent{
+    font-size:.9em;
+}
+
+#root{
+    width:75%;
+    margin:0 auto;
+}
+
+
+
