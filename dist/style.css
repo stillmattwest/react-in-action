@@ -17,6 +17,11 @@ body{
 
 .commentAuthor,.commentContent{
     font-size:.9em;
+    display:inline-block;
+}
+
+.commentContent{
+    margin-left:2px;
 }
 
 #root{
